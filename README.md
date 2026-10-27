@@ -4,10 +4,6 @@
   <p>
     <img src="./assets/open-to-work.svg" alt="Open to work in any role and location. California is the main goal." height="34">
   </p>
-
-  <
-    ✏️ CONTACT LINKS GO HERE. Delete the two comment lines (the opening and the closing one),
-       fill in the three values, and remove any link you don't want.
   <p>
     <a href="https://www.avneetnijjer.ca/"><code>Portfolio</code></a> ·
     <a href="https://www.linkedin.com/in/avneet-singh-nijjer/"><code>Linkedin</code></a> ·
