@@ -9,7 +9,7 @@
     ✏️ CONTACT LINKS GO HERE. Delete the two comment lines (the opening and the closing one),
        fill in the three values, and remove any link you don't want.
   <p>
-    <a href="YOUR_PORTFOLIO_URL"><code>portfolio</code></a> ·
+    <a href="https://www.avneetnijjer.ca/"><code>Portfolio</code></a> ·
     <a href="https://www.linkedin.com/in/avneet-singh-nijjer/"><code>Linkedin</code></a> ·
     <a href="mailto:Nijjea1@mcmaster.ca"><code>Email</code></a>
   </p>
