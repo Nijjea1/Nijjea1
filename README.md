@@ -49,6 +49,6 @@
 
 ## `~/education`
 
-<img src="./assets/education.svg" alt="B.Eng. Computer Engineering (Co-op), McMaster University, September 2024 to April 2028 (expected)" width="100%">
+<img src="./assets/education.svg" alt="B.Eng. Computer Engineering (Co-op), McMaster University, September 2024 to April 2029 (expected)" width="100%">
 
 <img src="./assets/footer.svg" alt="An animated ECG heartbeat above the text: git commit -m &quot;to be continued&quot;" width="100%">
