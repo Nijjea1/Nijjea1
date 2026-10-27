@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/avneet-singh-nijjer/"><code>Linkedin</code></a> ·
     <a href="mailto:Nijjea1@mcmaster.ca"><code>Email</code></a>
   </p>
-  >
+  
 </div>
 
 ## `~/now`
